@@ -1,12 +1,12 @@
 <template>
 <!-- sky (mountains) component -->
-<a-sky class="mountains" height="30" radius="20" rotation="0 90 0" theta-length="95" src="#mountains"></a-sky>
+<a-sky class="clouds" height="30" radius="20" rotation="0 90 0" theta-length="85" src="#clouds"></a-sky>
 
 </template>
 
 <script>
 export default {
-  name: 'mountains',
+  name: 'clouds',
   data () {
     return {}
   }

@@ -1,7 +1,7 @@
 <template>
 <!-- Beer can component -->
-<a-entity class="logo">
-  <a-curvedimage src="#logo" radius="3.7" height="1.3" width="300" position="0.65 3.3 -1" rotation="-8 150 0"  theta-length="74"
+<a-entity class="stubhub">
+  <a-curvedimage src="#stubhub" radius="5.7" height="2" width="400" position="0.5 4.5 0" rotation="0 320 0"  theta-length="74"
   scale="1 1 1">
     <!--a-animation attribute="rotation" easing="ease-in-out-cubic" repeat="3" from="0 -200 0" to="0 -230 0" delay="200" direction="alternate" dur="900"></a-animation-->
   </a-curvedimage>
@@ -13,7 +13,7 @@
 
 <script>
 export default {
-  name: 'logo',
+  name: 'stubhub',
   data () {
     return {}
   }

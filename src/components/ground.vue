@@ -1,6 +1,6 @@
 <template>
 <!-- ground label component -->
-<a-circle class="ground" src="#coors_logo" rotation="-90 0 0" opacity="0.7" radius="5"></a-circle>
+<a-circle class="ground" src="#coors_logo" rotation="-90 0 0" opacity="0.7" radius="4"></a-circle>
 </template>
 
 <script>
