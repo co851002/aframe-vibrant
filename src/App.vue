@@ -11,7 +11,7 @@
         <img id="beerCan" src="https://ucarecdn.com/b8afc3b4-05a9-49eb-afee-0e33a4eb3686/">
         <img id="logo" src="https://ucarecdn.com/de16c46d-9c4a-41c1-bbbb-961433fe2637/">
         <img id="stubhub" src="https://ucarecdn.com/28bcff7c-2ac6-4008-bf4a-0ba026a2be95/">
-        <img id="clouds" src="https://ucarecdn.com/4fc37c78-bac7-4e6c-adab-6901e233ba1e/">
+        <img id="clouds" src="https://ucarecdn.com/ef320bb4-f2d7-41f2-912d-1614a6039fdc/">
       </a-assets>
       <instruction></instruction>
       <ground></ground>
